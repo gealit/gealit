@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Django, DRF
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gealit0369@yandex.ru or @gealit on the telegram
+- 📫 How to reach me gealit0369@yandex.ru or [@gealit](https://t.me/gealit) on the telegram
 
 <!---
 gealit/gealit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
