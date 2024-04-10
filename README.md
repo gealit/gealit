@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [George], a passionate engineer working in the QA department. I specialize in creating testing frameworks for logic, primarily using Python. I'm also diving into the world of GoLang to expand my skillset.
+I'm George, a passionate engineer working in the QA department. I specialize in creating testing frameworks for logic, primarily using Python. I'm also diving into the world of GoLang to expand my skillset.
 
 ## About Me
 
